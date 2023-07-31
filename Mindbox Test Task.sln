@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox Test Task", "Mindbo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox Library", "Mindbox Library\Mindbox Library.csproj", "{7D142075-3A56-4F20-8716-0908BA9960DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox Tests", "Mindbox Tests\Mindbox Tests.csproj", "{3474DE09-7DC4-4F56-9F6E-829202A9A6B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7D142075-3A56-4F20-8716-0908BA9960DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D142075-3A56-4F20-8716-0908BA9960DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D142075-3A56-4F20-8716-0908BA9960DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3474DE09-7DC4-4F56-9F6E-829202A9A6B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3474DE09-7DC4-4F56-9F6E-829202A9A6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3474DE09-7DC4-4F56-9F6E-829202A9A6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3474DE09-7DC4-4F56-9F6E-829202A9A6B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
