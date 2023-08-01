@@ -13,6 +13,10 @@ namespace Mindbox_Library
         public abstract void Print();
         public Shape(string name)
         {
+            if (string.IsNullOrWhiteSpace(name))
+            {
+                throw new ArgumentNullException("Имя фигуры не может быть пустым!", nameof(name));
+            }
             ShapeName = name;
         }
     }

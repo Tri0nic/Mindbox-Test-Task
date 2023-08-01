@@ -4,6 +4,7 @@ class Program
 {
     public static void Main()
     {
+        // Пример использования
         Circle circle2 = new Circle(6);
         List<Shape> shapes = new List<Shape>
         {
